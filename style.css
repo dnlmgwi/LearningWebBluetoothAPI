@@ -1,0 +1,29 @@
+body {
+  font-family: "Inter";
+  text-align: center;
+  padding: 2rem;
+}
+
+.padding {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.notice {
+  background-color: lightcyan;
+  border-radius: 0.9rem;
+}
+
+.button {
+  border-radius: 2rem;
+  margin-left: 0.9rem;
+  margin-right: 0.9rem;
+  background: dodgerblue;
+  color: white;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border: transparent;
+  cursor: pointer;
+}
